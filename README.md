@@ -1,103 +1,93 @@
-# Zachary R. Handel
+# Zachary Handel
 
-- **Email:** zachary.handelzh@gmail.com
-- **Phone:** 256-947-1235
-- **GitHub:** [ZacharyHandel](https://github.com/ZacharyHandel)
+[zachary.handelzh@gmail.com](mailto:zachary.handelzh@gmail.com)  
+256-947-1235  
+[GitHub](https://github.com/ZacharyHandel)  
 
-## Objective
-Full-time Computer Science student graduating in May of 2024 seeking a full-time position to gain experience within software development, cybersecurity, and related fields, gain a security clearance, and continue to develop experience in customer and team interactions and relationships.
+## Professional Summary
+
+Experienced Full-Stack Software Developer knowledgeable in creating efficient software solutions for different areas of technology. Combines skills of known programming languages, frameworks, version control tools, issue tracking tools, development lifecycles, and other technical skills to produce and maintain high-quality software.
+
+## Work Experience
+
+### nSide, Inc.
+**Junior Web Developer**  
+*May 2024 - Current*  
+**Intern**  
+*May 2023 - May 2024*
+
+- Developed and maintained web applications and APIs using ASP.NET, VB.NET, HTML5, CSS, C#, JavaScript, and MySQL while following MVC and MVVM architectures.
+- Participated in agile development and software lifecycle standards.
+- Utilized Atlassian Jira for issue tracking.
+- Participated in functional software testing on landing page, nSide|Plans, nSide|Edge, and nSide|Lockdown.
+- Utilized Git and GitHub for version control.
+- Provided technical documentation related to software maintenance research and requirements.
+- Participated in sprint-planning, status, and stand-up meetings.
+- Proposed prototype solutions to the team for given requirements from stakeholders.
+
+### DigiSigns
+**Web Developer**  
+*April 2023 - May 2023*
+
+- Developed and maintained the landing page using Next.js.
+- Developed and maintained the sales application's front-end using Next.js.
+- Participated in establishing the software lifecycle for the startup company.
+- Participated in agile development.
+
+### Peraton
+**Intern**  
+*May 2022 - August 2022*
+
+- Helped to keep data accessible and organized with consistent database updates.
+- Prepared and maintained records of meetings and documents reviewed in accordance with assigned projects.
+- Participated in meetings and conferences as assigned by team leader.
+- Tested database and entered equipment inventory data via Microsoft Access.
+- Consolidated computer hardware for field use.
+- Executed functional testing on the FlightViz and FlightAnalyst flight training simulation software.
+
+## Education
+
+**University of North Alabama**  
+Florence, AL  
+Bachelor of Science: Computer Science  
+*May 2024*  
+Minor: Cyber Security  
+GPA: 3.45
 
 ## Skills
 
-### Languages
-C++, C, C#, Visual Basic, JavaScript, Python, SQL, HTML, CSS, PHP, Ruby, R, TypeScript
-
-### Applications and Frameworks
-Visual Studio, Visual Studio Code, Code::Blocks IDE, VIM, Unity, DEV-C++, MariaDB, ASP.NET, Flask, Node.js, React.js, Next.js, Swagger, Tailwind CSS, Bootstrap, Supabase, MySQL, Git, GitHub, Gitea, Microsoft Office, Google Workspace, Jira, Sony Vegas; Familiar with MATLAB
-
-### Operating Systems
-Experienced in Windows; Comfortable with Linux (Kali, Ubuntu)
-
-### Other Skills
-Experienced in creating databases for web applications; strong knowledge of PC hardware components; familiar with secure software development processes and techniques; knowledge of MVC software design; experienced in agile software development; experienced in web API development using .NET Core; knowledge of computer architecture; knowledge of basic computer networking topics
-
-## Education
-**University of North Alabama (Class of 2024)**
-- *August 2020-May 2024*
-- Bachelors of Science in Computer Science; Minor in Cybersecurity
-- GPA: 3.30
-
-## Related Work Experience
-
-### Intern for SimAuthor at Peraton
-- *Summer 2022*
-- Did database testing and entry with Microsoft Access
-- Consolidated desktops and desktop components
-- Created CAT-5 wires for field use
-- Did ethernet wire networking through the office building
-- Learned about troubleshooting and basic IT skills
-- Did software testing with FlightViz and FlightAnalyst flight training simulation software
-
-### Front End Developer for DigiSigns
-- *April 2023-May 2023*
-- Developed the front end and sales application of the company’s website using Next.js
-- Fixed issues related to the website and sales application
-
-### Engineering Intern for nSide|The School Safety Platform
-- *May 2023-Current*
-- Participated in agile software development to document and fix active bugs and develop active features for the company’s platform frontend and backend (Visual Basic/C#) using the .NET framework
-- Learned about API development through .NET Core (C#)
-
-## Leadership Experience
-
-### Resident Advisor for University of North Alabama Housing and Residence Life
-- *Summer 2022 - May 2024*
-- Resident Advisor for 2,000+ students
-- Resident hall tour guide for incoming students
-- Write incident reports for student conduct
-- Create community within resident halls
-
-### Secretary of Alpha Mu Lambda Fraternity
-- *Fall 2020 - Spring 2022*
-- Controlled and designed the active budget for the fraternity
-- Controlled and organized the fraternity’s files
-- Documented all brotherhood meetings and hearings
-
-### Director of Administration for the UNA Independent Greek Council
-- *Spring 2021 – Fall 2022*
-- Director of 5 different Greek chapters
-- Controlled and designed the council’s budget
-- Studied and proposed changes to the council’s constitution
-- Attended the 2022 Southeastern Greek Leadership Association Conference in Atlanta, GA
-
-## Achievements
-- Selected by the Invention to Innovation Center UAH for designing a medical innovation to help cure Tourette’s Syndrome through the James Clemens High School Biomedical Academy
-- Was accepted into the University of North Alabama Marching Pride Drumline as a percussionist
-- Selected for numerous endowed scholarships from the University of North Alabama College of Business and Technology
-- Selected twice for National Cyber Summit Attendee from the University of North Alabama College of Business and Technology
-
-## Volunteer Experience
-- Florence Lauderdale Animal Shelter: Volunteered for an animal shelter fundraiser through the University of North Alabama Independent Greek Council
-- Lions Lend a Hand volunteer for Humana and University of North Alabama Food Pantry
-- Paws for a Cause volunteer for the Madison Alabama Rescue Foundation
-
-## Certifications
-Pursuing studies towards A+, Linux+, and Security+ certifications.
+- Full-Stack Development
+- Agile Development
+- JavaScript
+- Python
+- API Integration
+- HTML5
+- CSS
+- Angular.JS
+- Node.js
+- Git
+- GitHub
+- Troubleshooting
+- Application debugging
+- Interface design
+- Software testing
+- TypeScript
+- jQuery
+- Bootstrap
+- MySQL
+- Next.js
+- Atlassian Jira
+- C#
+- ASP.NET
+- C++
+- C
+- VB.NET
+- MySQLite3
 
 ## Projects
 
-### Interactive Fiction Game Engine (C++)
-- *Fall 2022*
-- Academic Project; Contributed to an in-console Interactive Fiction Game Engine using C++ (see [GitHub](https://github.com/your-repository))
+Navigate to the provided GitHub link at the top of the document.
 
-### Junior Research Project
-- *Spring 2023*
-- Research paper; Studied the importance of self-protecting JavaScript (see [GitHub](https://github.com/your-repository)/[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile))
+## References
 
-### Programming for the Web Final Project (PHP)
-- *Fall 2023*
-- Simple Web Application; web application that allows functionality for altering a membership roster
-
-### Personal Wedding Site (Flask)
-- *Current*
-- Web Application; web application to support the attendees of our wedding with specific features
+Available upon request.
